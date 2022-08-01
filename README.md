@@ -7,9 +7,9 @@ This analysis organizes ride-sharing data by city type and visualizes total week
 ## Results
 Below are a summary of the dataset as a whole and a summary chart of the total fare by city type.
 
-![alt text](https://github.com/ajkriegz/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png "PyBer Fare Summary")
-
 ![alt text](https://github.com/ajkriegz/PyBer_Analysis/blob/main/analysis/Summary_DataFrame.png "Summary DataFrame")
+
+![alt text](https://github.com/ajkriegz/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png "PyBer Fare Summary")
 
 * Suburban cities had five times more rides than rural cities while urban cities had thirteen times more rides than rural cities.
 
